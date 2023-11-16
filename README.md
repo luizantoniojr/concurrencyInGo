@@ -2,7 +2,8 @@
 
 This repository is dedicated to my personal exploration and exercises based on the book "Concurrency in Go: Tools and Techniques for Developers" by Katherine Cox-Buday.
 
-![Cover of Concurrency in Go]([https://link-to-image.jpg](https://m.media-amazon.com/images/I/91boXuKgKSL._SY466_.jpg))
+![Cover of Concurrency in Go](https://m.media-amazon.com/images/I/91boXuKgKSL._SY466_.jpg)
+
 
 ## About the Book
 
