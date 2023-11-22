@@ -59,4 +59,8 @@ func main() {
 	go politeWorker()
 
 	wg.Wait()
+
+	//One of the ways to detect and solve starvation is by logging whe work is accomplished.
+	//Starvation cal also apply to CPU, memory, file handles, database connections
+	//and other resources, any shared resource can be a source of starvation.
 }
